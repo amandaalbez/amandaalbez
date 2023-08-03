@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Amanda Alcântara 👩🏻‍💻🤍</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Amanda Alcântara 🤍</h1>
 - 🔥 Programadora Front-end | Designer | Formada em Tec. de Informática | Cursando Ciência da Computação 
 <br>
 <picture>
