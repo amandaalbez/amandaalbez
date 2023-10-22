@@ -1,5 +1,5 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Amanda Alcântara 🤍</h1>
-- 🔥 Programadora Front-end | Designer | Formada em Tec. de Informática | Cursando Ciência da Computação 
+<h1 align="left">Hi, I'm Amanda Alcântara 🤍</h1>
+- 🔥 Programadora | Designer | Formada em Tec. de Informática | Cursando Ciência da Computação 
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake-dark.svg">
