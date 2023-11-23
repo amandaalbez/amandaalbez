@@ -33,7 +33,7 @@
 ## 💌 Contato / Portifólio
 
 <p align="left">
-  <a href="amandaalbezz@gmail.com" target="_blank" title="Gmail">
+  <a href="malito:amandaalbezz@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=amandaalbezz@gmail.com" alt="Gmail"/></a>
 
  <a href="https://www.linkedin.com/in/amanda-alc%C3%A2ntaraa/" target="_blank" title="Linkedin">
