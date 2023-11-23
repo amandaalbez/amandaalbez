@@ -29,3 +29,16 @@
 <a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amandaalbez&show_icons=true&theme=radical&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
+
+## 💌 Contato / Portifólio
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=amandaalbezz@gmail.com" alt="Gmail"/></a>
+
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-alc%C3%A2ntaraa/" alt="LinkedIn"/></a>
+
+  <a href="#" title="Behance">
+  <img src="https://img.shields.io/badge/-Behance-EB00CB?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/amandaalcntara2" alt="Behance"/></a>
+</p>
