@@ -22,11 +22,11 @@
 <br>
 
 ## ⭐ Informações sobre minha conta GitHub
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
+<a href="#" title="ilustração do mapeamento de linguagens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaalbez&theme=radical&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
+<a href="#" title="ilustração do mapeamento do perfil">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amandaalbez&show_icons=true&theme=radical&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
