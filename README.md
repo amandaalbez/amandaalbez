@@ -38,7 +38,4 @@
 
  <a href="https://www.linkedin.com/in/amanda-alc%C3%A2ntaraa/" target="_blank" title="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-alc%C3%A2ntaraa/" alt="LinkedIn"/></a>
-
-  <a href="https://www.behance.net/amandaalcntara2" title="Behance">
-  <img src="https://img.shields.io/badge/-Behance-EB00CB?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/amandaalcntara2" alt="Behance"/></a>
 </p>
