@@ -1,8 +1,5 @@
-<h1 align="left">Hi, I'm Amanda Alcântara! 👋</h1>
-
-<p>
-  👩🏻‍💻☕ Computer Science Student | Information Technology Graduate
-</p>
+<h1 align="center">Hi 👋, I'm Amanda Alcântara</h1>
+<h3 align="center">👩🏻‍💻☕ Computer Science Student | Information Technology Graduate</h3>
 
 <img width="300" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" alt="Unicorn"/>
 
