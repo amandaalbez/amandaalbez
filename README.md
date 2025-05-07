@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amanda Alcântara</h1>
 <h3 align="center">👩🏻‍💻☕ Computer Science Student | Information Technology Graduate</h3>
-
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 ---
 
 ### 💻 Tech & Skills  
@@ -26,6 +29,10 @@
 
 ---
 
+[![](https://github-readme-stats.vercel.app/api?username=amandaalbez&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/amandaalbez)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=amandaalbez&theme=material-palenight)](https://github.com/amandaalbez)
+
+<img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 ### 💌 Contact
 
 <a href="mailto:amandaalbezz@gmail.com" target="_blank" title="Gmail">
