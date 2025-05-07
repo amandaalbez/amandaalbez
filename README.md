@@ -1,11 +1,14 @@
 ## <img src="https://github.com/user-attachments/assets/811514ec-9795-4598-997a-6050829b8c93" alt="Amanda Alcântara" width="200" align="center"/>  Hi 👋, I'm Amanda Alcântara
 #### 👩🏻‍💻☕ Computer Science Student | Information Technology Graduate
 
-<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake animation"/>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 ---
 
-### 💻 Tech & Skills
+#### 💻 Tech & Skills
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -17,7 +20,7 @@
 
 ---
 
-### 📊 GitHub Stats
+#### ⭐ GitHub Stats
 
 <p>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amandaalbez&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
@@ -26,7 +29,7 @@
 
 ---
 
-### 💌 Contact
+#### 💌 Contact
 
 <a href="mailto:amandaalbezz@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
