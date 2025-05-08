@@ -1,4 +1,4 @@
-## <img src="https://github.com/user-attachments/assets/811514ec-9795-4598-997a-6050829b8c93" alt="Amanda Alcântara" width="200" align="center"/>  Hi 👋, I'm Amanda Alcântara
+## <img src="https://github.com/user-attachments/assets/811514ec-9795-4598-997a-6050829b8c93" alt="Amanda Alcântara" width="200" align="center"/>  Hi, I'm Amanda Alcântara
 #### 👩🏻‍💻☕ Computer Science Student | Information Technology Graduate
 
 <p align="center">
